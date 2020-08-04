@@ -1,0 +1,25 @@
+.top-class{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  right: 925px;
+  bottom: 150px;
+}
+.middle-class{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+position: absolute;
+bottom: 350px;
+right: 1125px;
+}
+.bottom-class{
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+}
